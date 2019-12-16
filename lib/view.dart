@@ -1,0 +1,4 @@
+enum View {
+  playing,
+  lost,
+}
